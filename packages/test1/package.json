@@ -1,6 +1,6 @@
 {
   "name": "@qinfj/test1",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "description": "",
   "main": "index.js",
   "repository": "https://github.com/qinfuji/learn-lerna/tree/master/packages/test1",
